@@ -32,7 +32,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     /**
-     * Converts the string to int for the number of2people variable.
+     * Converts the string to int for the number of people variable.
      * Implements a formula to calculate total number of pizzas by multiplying the number of people with the fixed number of slices per person and then dividing it by slices per pizza.
      */
     fun calculateClick(view: View) {
